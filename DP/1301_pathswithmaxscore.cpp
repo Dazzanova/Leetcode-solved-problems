@@ -26,7 +26,8 @@ public:
     }
 
     int uniquePathsWithObstacles(vector<vector<int>>& grid) {
-        int n = grid.size(), m = grid[0].size();
+        int n = grid.size(), 
+            m = grid[0].size();
         vector<vector<long long>> dp(n, vector<long long>(m, 0));
         dp[0][0] = grid[0][0] == 1 ? 0 : 1;
 
