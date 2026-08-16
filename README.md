@@ -7,8 +7,9 @@ This repository contains my C++ solutions to LeetCode problems.
 - DP/ - Dynamic Programming problems
 - Graphs/ - Graph problems
 - Trees/ - Tree problems
-- Arrays/ - Array problems
+- Array/ - Array problems
 - BitManipulation/ - Bit Manipulation Problems
 - Biweekly/ - Leetcode Biweekly contest problems
+- Recursion/ - Recursion problems
 
 Each solution is written in C++ and organized by topic.
